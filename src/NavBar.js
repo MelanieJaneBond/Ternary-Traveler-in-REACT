@@ -1,7 +1,3 @@
-//put links in here that will take the user from a "main, welcome to the blog" page
-//they should be able to get to a "blog-entry" page with a form
-//and they should be able to view a "past trips" page
-
 import React, { Component } from "react"
 import { Link } from "react-router-dom"
 
