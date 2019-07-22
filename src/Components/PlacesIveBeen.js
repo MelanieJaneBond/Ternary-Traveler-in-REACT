@@ -16,5 +16,3 @@ class PlacesIveBeen extends Component {
 }
 
 export default PlacesIveBeen
-
-//move the data to that database file and render it in a readable format on the "Places I've Been" page.
